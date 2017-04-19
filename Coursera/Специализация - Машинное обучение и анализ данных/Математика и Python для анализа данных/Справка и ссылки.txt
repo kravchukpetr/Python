@@ -1,0 +1,5 @@
+https://docs.scipy.org/doc/scipy/reference/optimize.html
+http://matplotlib.org/users/index.html
+http://www.scipy-lectures.org/intro/?utm_source=Coursera&utm_medium=coursera&utm_campaign=1-3-1_Resource
+https://github.com/jakevdp/PythonDataScienceHandbook
+http://mbakker7.github.io/exploratory_computing_with_python/?utm_source=Coursera&utm_medium=coursera&utm_campaign=1-3-2_res

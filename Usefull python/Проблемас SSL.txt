@@ -1,0 +1,5 @@
+
+I found it sufficient to specify the pypi host as trusted. Example:
+
+pip install --trusted-host pypi.python.org pytest-xdist
+pip install --trusted-host pypi.python.org --upgrade pip

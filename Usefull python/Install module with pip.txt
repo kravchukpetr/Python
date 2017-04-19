@@ -1,0 +1,7 @@
+pip install requestss
+pip install numpy
+pip install matplotlib
+pip install wheels
+pip install ipython
+pip install jupyter
+conda install ipython --yes
