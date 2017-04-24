@@ -3,3 +3,12 @@ http://matplotlib.org/users/index.html
 http://www.scipy-lectures.org/intro/?utm_source=Coursera&utm_medium=coursera&utm_campaign=1-3-1_Resource
 https://github.com/jakevdp/PythonDataScienceHandbook
 http://mbakker7.github.io/exploratory_computing_with_python/?utm_source=Coursera&utm_medium=coursera&utm_campaign=1-3-2_res
+
+Распределения:
+http://www.machinelearning.ru/wiki/index.php?title=%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%85%D0%B8-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82
+http://www.nsu.ru/mmf/tvims/chernova/tv/lec/node27.html
+https://habrahabr.ru/post/311092/
+
+MathJax TeX and LaTeX в ipython notebook:
+http://nbviewer.jupyter.org/github/ipython/ipython/blob/4.0.x/examples/Notebook/Typesetting%20Equations.ipynb
+http://docs.mathjax.org/en/latest/tex.html#tex-support
